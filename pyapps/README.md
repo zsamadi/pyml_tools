@@ -1,1 +1,0 @@
-This directory includes applications of developed machine learning algorithms developed in algs folder. 
