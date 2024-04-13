@@ -20,5 +20,5 @@ Contains functions to apply machine learning algorithms on example input data pr
 
 [data](https://github.com/zsamadi/pyml_tools/tree/main/data)
 
-These are sample training data used to train machine learning algorithms. At the time of this writing they're all from [Anrew NG's machine learning course](https://www.coursera.org/learn/machine-learning). 
+These are sample training data used to train machine learning algorithms. At the time of this writing they're all from [Andrew NG's machine learning course](https://www.coursera.org/learn/machine-learning). 
 
